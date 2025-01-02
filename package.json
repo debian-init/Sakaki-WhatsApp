@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.65",
+    "@types/node": "^22.10.2",
+    "@whiskeysockets/baileys": "^6.7.9",
+    "axios": "^1.7.9",
+    "capture-website": "^4.2.0",
+    "cheerio": "^1.0.0",
+    "rahad-all-downloader": "^2.1.18",
+    "rahad-media-downloader": "^2.1.14",
+    "sharp": "^0.33.5",
+    "ytdl-core": "^4.11.5"
+  },
+  "scripts": {
+    "start": "ts-node main.ts "
+  }
+}
